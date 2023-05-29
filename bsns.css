@@ -1,0 +1,28 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.megai{
+    width: 150px;
+}
+
+.Card{
+    width: 500px;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    margin : 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+
+}
+
+.dotted{
+    border: 1px dotted blueviolet;
+}
